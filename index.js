@@ -19,3 +19,4 @@ On the other side of him, you see a shiny chest of treasure. Another path would
 lead you away from the dragon altogether. Which path do you take?`)
 
 }
+window.prompt (`Do you head Left or Right`)
